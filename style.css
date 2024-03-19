@@ -7,7 +7,7 @@
 /* import fonts */
 @font-face {
   font-family: "IRANSans";
-  src: local("IRANSansXRegular"), url("/IRANSansXRegular.ttf");
+  src: local("IRANSansXRegular"), url("./IRANSansXRegular.ttf");
 }
 
 body {
@@ -156,6 +156,7 @@ main > section {
 .slider > ol {
   max-width: calc(500px + 8rem);
   margin-inline: auto;
+  width: 50vw;
   width: -webkit-fill-available;
   padding-block: 4rem;
   border-radius: 20px;

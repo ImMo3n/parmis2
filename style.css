@@ -114,6 +114,11 @@ main > section {
   color: #4990e2;
 }
 
+header .hero-title-name{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 /* Info section */
 .info {
   background-color: #b9dcf0;
